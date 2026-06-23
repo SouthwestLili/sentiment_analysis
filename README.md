@@ -13,6 +13,8 @@ labels are simplified into two classes:
 We implement several linear classification algorithms from scratch and compare
 their performance.
 
+For detailed experiment results, please see [OUTPUT_RESULTS_README.md](OUTPUT_RESULTS_README.md).
+
 ## 1. Project Goal
 
 The main goal of this project is to understand how basic machine learning
